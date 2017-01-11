@@ -1,0 +1,26 @@
+{
+  "name": "inchatbot",
+  "version": "1.0.0",
+  "description": "build a bot in node.js MS bot framwork",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vindhya2505/InsChatBot.git"
+  },
+  "keywords": [
+    "blt"
+  ],
+  "author": "vindy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vindhya2505/InsChatBot/issues"
+  },
+  "homepage": "https://github.com/vindhya2505/InsChatBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.5.3",
+    "restify": "^4.3.0"
+  }
+}
