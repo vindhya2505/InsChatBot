@@ -26,8 +26,8 @@ var Address = require('./address');
 var Support = require('./support');
 
 // Setup dialogs
-bot.dialog('/address', Address.Dialog);
-bot.dialog('/policy', Policy.Dialog);
+bot.dialog('/flights', Flights.Dialog);
+bot.dialog('/hotels', Hotels.Dialog);
 bot.dialog('/support', Support.Dialog);
 
 
