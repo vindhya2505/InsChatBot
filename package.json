@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/vindhya2505/InsChatBot#readme",
   "dependencies": {
+    "bluebird": "^3.4.7",
     "botbuilder": "^3.5.3",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "restful-api": "^0.1.8",
     "restify": "^4.3.0"
   }
 }
